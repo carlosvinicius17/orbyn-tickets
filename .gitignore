@@ -1,0 +1,7 @@
+# Nunca envie estes itens ao GitHub
+.env
+.env.*
+!.env.example
+data/
+node_modules/
+*.log
