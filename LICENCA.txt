@@ -1,0 +1,26 @@
+ORBYN TICKETS — LICENÇA DE USO
+
+Titular: Orbyn Store
+
+1. Uso permitido
+   Esta licença vale para UM (1) servidor do Discord por compra. Você pode instalar,
+   configurar e ajustar o bot para uso próprio nesse servidor.
+
+2. Não é permitido
+   - revender, sublicenciar, doar ou compartilhar o arquivo, o código ou os links de download;
+   - publicar o código (repositórios públicos, fóruns, grupos);
+   - usar o mesmo pacote em mais de um servidor sem nova licença;
+   - remover esta licença do pacote.
+
+3. Garantia e suporte
+   O produto é entregue como descrito no anúncio. O suporte e o prazo seguem o que foi
+   informado na compra. Alterações feitas por você no código não são cobertas pelo suporte.
+
+4. Responsabilidade
+   O uso do bot deve respeitar os Termos de Serviço do Discord. A Orbyn Store não se
+   responsabiliza por uso indevido, nem pela perda de dados causada por configuração
+   incorreta ou hospedagem de terceiros.
+
+5. Violação
+   O descumprimento desta licença pode resultar no cancelamento do suporte e das
+   atualizações, sem direito a reembolso.
